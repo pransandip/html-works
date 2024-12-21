@@ -1,0 +1,28 @@
+READ THIS FOR THE JAPANESE STRINGS THAT I USE
+
+for SAINTA ID, IF There is none, USE
+該当なし
+
+FOR SERVICE NAME, if it is:
+
+ERP: サインタ・業務
+JOBSEARCH: サインタ・募集
+LAB: サインタ・ラボ
+
+for date, just do 
+YYYY年MM月DD日
+
+and for contract lenght (monthly or yearly)
+monthly: 月額契約
+yearly: 年間契約
+
+yen sign is 円 ikn japanese but you can just do
+¥NUMBER
+
+thanks.
+
+Also here is the 様 character next to an example NAME
+
+高端 幸助様、
+
+TAKAHASHI KOSUKE 様(SAMA)、(english reading)
